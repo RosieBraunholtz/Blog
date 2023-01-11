@@ -2,7 +2,7 @@ title:              Rosie's Guide to the Galaxy
 email:              rosie.braunholtz@gmail.com
 description:        Astronomy Blog
 author:             Rosie Braunholtz
-baseurl:            "/blog"
+baseurl:            "/Blog"
 url:                "https://rosiebraunholtz.github.io/Blog"
 
 # Social Profiles
