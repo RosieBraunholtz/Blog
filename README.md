@@ -12,9 +12,9 @@ You will need to download all the prerequisites first: Jekyll, Ruby Git etc. See
 
 I use images which are not mine. These include:
 
-  - Image by Arek Socha from Pixabay.
+  - Image by Arek Socha from Pixabay: https://pixabay.com/images/id-1756274/
 
-  - Image by WikiImages from Pixabay.
+  - Image by WikiImages from Pixabay: https://pixabay.com/images/id-11098/
   
-  - Webb image by NASA, ESA, CSA, and STScI
+  - Webb image by NASA, ESA, CSA, and STScI: https://flic.kr/p/2nxMxWw
 
