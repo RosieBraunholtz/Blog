@@ -2,11 +2,11 @@ title:              Rosie's Guide to the Galaxy
 email:              rosie.braunholtz@gmail.com
 description:        Astronomy Blog
 author:             Rosie Braunholtz
-baseurl:            "/blog"
-url:                "https://rosiebraunholtz.github.io/blog"
+baseurl:            "/Blog"
+url:                "https://rosiebraunholtz.github.io/Blog"
 
 # Social Profiles
-twitter_username:   Braunholtz
+twitter_username:   RosieBraunholtz
 github_username: RosieBraunholtz
 # facebook_username:  
 # instagram_username:  
@@ -23,3 +23,6 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+  
+# theme: jekyll-theme-clean-blog
+# remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
